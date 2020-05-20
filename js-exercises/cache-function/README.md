@@ -10,7 +10,7 @@ then it should return the cached result and not invoke `cb` again.
 # Requirements
 
 ### **What are some good real-life use cases for such a function?**
-*Write your response here*
+Cache lets say images and its path. and reuse it. lets say something like logo  
 
 ### **What *extra* test cases can you add to the test file?**
 
